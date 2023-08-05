@@ -1,2 +1,2 @@
 # Proyek IoT
-#### Difungsikan sebagai repositori untuk menyimpan proyek-proyek IoT yang telah selesai dibuat.
+#### Repositori untuk menyimpan source code Arduino pada tiap proyek IoT yang telah selesai dikerjakan, baik berkelompok maupun individu.
